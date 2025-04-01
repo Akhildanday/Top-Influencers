@@ -6,7 +6,7 @@ It is based on a dataset of **top Instagram influencers** with features like **f
 ---
 
 ## 🚀 **Live Demo**
-🔗 **Try the App**: [Streamlit Live App](YOUR_STREAMLIT_LINK_HERE)  
+🔗 **Try the App**: [Streamlit Live App](https://akhildanday-top-influencers-app-6gbyt9.streamlit.app/)  
 
 ---
 
